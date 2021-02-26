@@ -364,7 +364,7 @@ a:hover, a:active, a:focus {
   -----------------------------------------*/
 
 .project {
-  background: var(--secondary-bg);
+  background: var(--white-color);
 }
 
 .project-wrapper {
@@ -463,6 +463,15 @@ a:hover, a:active, a:focus {
   width: 100px;
   margin-right: 1em;
 }
+
+/*---------------------------------------
+     Testimonials              
+  -----------------------------------------*/
+
+  .testimonials {
+    background: var(--secondary-bg);
+  }
+
 
 /*---------------------------------------
       ABOUT            
